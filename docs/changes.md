@@ -29,7 +29,7 @@
 - [MagiskInit] Fix `sepolicy.rule` mounting strategy
 - [resetprop] Always delete existing `ro.` props before updating. This will fix bootloops that could be caused by modifying device fingerprint properties.
 
-### v22.0
+### v22.0Win10（64 بت OS)
 
 - [General] Magisk and Magisk Manager is now merged into the same package!
 - [App] The term "Magisk Manager" is no longer used elsewhere. We refer it as the Magisk app.
